@@ -56,4 +56,4 @@ reviewed_label = "S-waiting-on-author"
 # These labels are removed when a review is submitted.
 review_labels = ["S-waiting-on-review"]
 
-#[shortcut]
+[shortcut]
