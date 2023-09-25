@@ -57,4 +57,3 @@ review_labels = ["S-waiting-on-review"]
 reviewed_label = "S-waiting-on-author"
 
 [shortcut]
-
