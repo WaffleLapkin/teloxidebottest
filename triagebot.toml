@@ -8,7 +8,7 @@ fallback = ["@WaffleLapkin", "@Hirrolot"]
 
 [assign.owners]
 "crates/teloxide-core" = ["@WaffleLapkin"]
-"crates/teloxide-macros" = ["@WaffleLapkin"]
+"crates/teloxide-macros" = ["@WaffleLapkin", "TheAwiteb"]
 ".github" = ["@WaffleLapkin"]
 
 
