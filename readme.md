@@ -1,1 +1,1 @@
-jyn and waffle are both very cute!!
+jyn is very cute!!
