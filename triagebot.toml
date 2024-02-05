@@ -14,9 +14,11 @@ fallback = ["@WaffleLapkin"] #, "@Hirrolot"]
 
 [autolabel."S-waiting-on-review"]
 new_pr = true
+reopened_pr = true
 
 [autolabel."S-waiting-on-author"]
 new_draft_pr = true
+reopened_draft_pr = true
 
 #[autolabel."new-issue"]
 #new_issue = true
@@ -66,5 +68,9 @@ add_labels = ["S-waiting-on-review"]
 [converted-to-draft]
 remove_labels = ["S-waiting-on-review"]
 add_labels = ["S-waiting-on-author"]
+
+[ready-for-review]
+remove_labels = ["S-waiting-on-author"]
+add_labels = ["S-waiting-on-review"]
 
 [shortcut]
