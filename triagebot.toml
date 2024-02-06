@@ -73,4 +73,9 @@ add_labels = ["S-waiting-on-author"]
 remove_labels = ["S-waiting-on-author"]
 add_labels = ["S-waiting-on-review"]
 
+[closed-pr]
+remove_labels = ["S-waiting-on-author", "S-waiting-on-review"]
+add_labels = []
+
+
 [shortcut]
